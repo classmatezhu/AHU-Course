@@ -4,7 +4,7 @@
 
 # 国内用户快速下载
 
-[点击下载](/repository/archive/master.zip)    [备用下载](/repository/archive/master.zip)
+[点击下载](./下载链接列表)  [备用下载](/repository/archive/master.zip)
 
 # 反馈方式
 
