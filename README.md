@@ -8,7 +8,7 @@
 
 # 反馈方式
 
-- [issue](https://github.com/USTC-Resource/USTC-Course/issues/new)
+- [issue](https://github.com/classmatezhu/AHU-Course/issues/new)
 - email：classmatezhu@Gmail.com
 
 # 目录结构
@@ -31,13 +31,6 @@
 └ README.md
 ```
 
-# 课程关系
-
-> 根据培养方案总结，非学校发布。
-
-19级理科试验班
-
-19级文科试验班
 
 # 贡献
 
