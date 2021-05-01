@@ -8,7 +8,7 @@
 
 # 相关工作
 
-- [中国科学技术大学](https://github.com/classmatezhu/USTC-Course)
+- [中国科学技术大学课程资源](https://github.com/classmatezhu/USTC-Course)
 - [浙江大学课程攻略共享计划](https://github.com/QSCTech/zju-icicles)
 - [上海交通大学课程资料分享](https://github.com/c-hj/SJTU-Courses)
 - [清华大学计算机系课程攻略](https://github.com/PKUanonym/REKCARC-TSC-UHT)
