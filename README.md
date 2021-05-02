@@ -34,6 +34,7 @@
 - [东南大学课程共享计划 —— 软件学院](https://github.com/zjdx1998/seucourseshare/tree/71-%E8%BD%AF%E4%BB%B6%E5%AD%A6%E9%99%A2)
 - [东南大学软件学院课程资料](https://github.com/ChangWinde/SouthEastUniversity)
 - [中山大学往年试卷](https://github.com/sysuexam/SYSU-Exam)
+- [中山大学数据科学与计算机学院计算机科学专业资料](https://github.com/ysyisyourbrother/SYSU_Notebook)
 - [南京大学课程复习资料](https://github.com/idealclover/NJU-Review-Materials)
 - [大连理工大学课程攻略共享公益项目](https://github.com/libdlut/libdlut)
 - [大连理工大学软件工程专业课程指南](https://github.com/NAOSI-DLUT/DLUT_SE_Courses)
