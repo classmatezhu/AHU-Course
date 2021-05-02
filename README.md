@@ -8,12 +8,12 @@
 
 # 相关工作
 
-- [中国科学技术大学课程资源](https://github.com/classmatezhu/USTC-Course)
+- [中国科学技术大学课程资源](https://github.com/USTC-Resource/USTC-Course)
 - [浙江大学课程攻略共享计划](https://github.com/QSCTech/zju-icicles)
 - [上海交通大学课程资料分享](https://github.com/c-hj/SJTU-Courses)
 - [清华大学计算机系课程攻略](https://github.com/PKUanonym/REKCARC-TSC-UHT)
 - [北京大学课程资料民间整理](https://github.com/lib-pku/libpku)
-- [复旦大学计算机科学与技术专业](https://github.com/classmatezhu/fudan-coursera)
+- [复旦大学计算机科学与技术专业](https://github.com/openFudan/fudan-coursera)
 - [郑州大学课程资料共享计划](https://github.com/CooperNiu/ZZU-Courses-Resource)
 - [广东工业大学计算机学院课程攻略](https://github.com/brenner8023/gdut-course)
 - [浙江大学《数据结构》MOOC笔记](https://github.com/callmePicacho/Data-Structres)
@@ -37,7 +37,7 @@
 - [南京大学课程复习资料](https://github.com/idealclover/NJU-Review-Materials)
 - [大连理工大学课程攻略共享公益项目](https://github.com/libdlut/libdlut)
 - [大连理工大学软件工程专业课程指南](https://github.com/NAOSI-DLUT/DLUT_SE_Courses)
-- [东北大学机器人课程攻略 共享计划](https://github.com/classmatezhu/NEU-RSE-Courses)
+- [东北大学机器人课程攻略 共享计划](https://github.com/mywisdomfly/NEU-RSE-Courses)
 - [北大计算机课程大作业](https://github.com/tongtzeho/PKUCourse)
 - [哈尔滨工业大学课程资料分享](https://github.com/1170500820/HIT-Courses)
 - [哈尔滨工业大学考研 网络与空间安全 837 初试资料库](https://github.com/guoJohnny/-837-)
