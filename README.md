@@ -59,7 +59,7 @@
 - [华南理工大学 计算机软件工程考研复试资料](https://github.com/jakejie/HuaNan)
 - [电子科技大学资源共享平台](https://github.com/Xovee/uestc-course)
 - [西安交通大学课程资料共享计划](https://github.com/cantjie/XJTU-Share)
-- [JNU电信复习资料收集汇总（个人收集）](https://github.com/Eajack/JNU_EIST)
+- [暨南大学电信复习资料收集汇总（个人收集）](https://github.com/Eajack/JNU_EIST)
 
 
 # 反馈方式
