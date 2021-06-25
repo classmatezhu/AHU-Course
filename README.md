@@ -8,6 +8,7 @@
 
 # 相关工作
 
+- [安徽大学飞跃手册](https://github.com/AHUer-LeapLap/Impart-Inherit)
 - [中国科学技术大学课程资源](https://github.com/USTC-Resource/USTC-Course)
 - [浙江大学课程攻略共享计划](https://github.com/QSCTech/zju-icicles)
 - [上海交通大学课程资料分享](https://github.com/c-hj/SJTU-Courses)
