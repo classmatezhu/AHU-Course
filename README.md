@@ -1,10 +1,53 @@
 # ⚡安徽大学文典学院资源共享
 
-> 本仓库收录安徽大学文典学院众多课程资源的笔记、总结、经验和学习资料等。
+本仓库收录了安徽大学文典学院众多课程资源的笔记、总结、经验和学习资料等。
 
-# 国内用户快速下载
+# 使用方法
 
-[点击下载](http://zzy2001.com/index.php/archives/29/)
+## 1. 在线网盘（推荐）
+
+在线网盘链接：[点击进入](https://pan.zzy2001.com/s/PKfB)
+
+进入网盘后，可以直接在线查看。在文件夹或文件上右键，可以直接下载。
+
+## 2. 下载列表
+
+下载列表链接：[点击进入](http://zzy2001.com/index.php/archives/29/)
+
+## 3. 仓库
+
+[GitHub仓库地址](https://github.com/classmatezhu/AHU-Course)
+[Gitee镜像仓库地址](https://gitee.com/classmatezhu/AHU-Course)
+
+# 反馈方式
+
+- 在GitHub上提交issues或PR.
+
+- 发E-mail：classmatezhu@Gmail.com
+
+# 目录结构
+
+```
+资源共享
+├ 课程资源
+│   └ 课程名称1
+│      ├ 课件与参考书
+│      ├ 笔记
+│      ├ 历年试卷
+│      └ README.md
+├ 培养方案
+│   ├ 培养方案1
+│   └ 培养方案2
+├ 关于项目撞车.md
+├ 使用说明.md
+└ README.md
+```
+
+# 许可
+
+**本项目完全免费，如果发现有人兜售，请及时举报。**
+
+其他部分的版权归属于其各自的作者。
 
 # 相关工作
 
@@ -61,35 +104,3 @@
 - [电子科技大学资源共享平台](https://github.com/Xovee/uestc-course)
 - [西安交通大学课程资料共享计划](https://github.com/cantjie/XJTU-Share)
 - [暨南大学电信复习资料收集汇总（个人收集）](https://github.com/Eajack/JNU_EIST)
-
-
-# 反馈方式
-
-- [issue](https://github.com/classmatezhu/AHU-Course/issues/new)
-- email：classmatezhu@Gmail.com
-
-# 目录结构
-
-```
-资源共享
-├ 课程资源
-│   └ 课程名称1
-│      ├ 课件与参考书
-│      ├ 笔记
-│      ├ 历年试卷
-│      └ README.md
-├ 培养方案
-│   ├ 培养方案1
-│   └ 培养方案2
-├ 关于项目撞车.md
-├ 使用说明.md
-└ README.md
-```
-
-
-
-# 许可
-
-**本项目完全免费，如果发现有人兜售，请及时举报。**
-
-其他部分的版权归属于其各自的作者。
