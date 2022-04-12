@@ -95,6 +95,7 @@
 - [山东大学软件学院课程资源共享](https://github.com/yingzhou20/sdu-sc-resources)
 - [武汉大学课程资料整理-WHU课代表计划](https://github.com/openwhu/OpenWHU)
 - [中国地质大学（武汉）计算机科学与技术专业资料整理](https://github.com/mxy493/CUGCS)
+- [南开大学CS](http://nkucs.icu/#/)
 - [华中科技大学 计算机科学与技术学院 学习资料](https://github.com/AlexFanw/HUSTER-CS)
 - [华中科技大学计算机科学与技术学院实验报告通用高分模板](https://github.com/zxc479773533/HUST-CS-Report-Template)
 - [华中科技大学考研资料](https://github.com/janglucky/KAOYAN)
