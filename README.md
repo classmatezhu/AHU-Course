@@ -10,11 +10,7 @@
 
 进入网盘后，可以直接在线查看。在文件夹或文件上右键，可以直接下载。
 
-## 2. 下载列表
-
-下载列表链接：[点击进入](http://zzy2001.com/index.php/archives/29/)
-
-## 3. 仓库
+## 2. 仓库
 
 [GitHub仓库地址](https://github.com/classmatezhu/AHU-Course)
 
