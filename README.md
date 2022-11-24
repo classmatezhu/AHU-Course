@@ -65,7 +65,7 @@
 - [中国科学院大学2019-2020课程（秋季，春季，夏季）](https://github.com/HuangCongQing/UCAS_Course_2019)
 - [北京航空航天大学(北航)课程作业资料共享计划](https://github.com/TheBloodthirster/BUAA_Course_Sharing)
 - [北京林业大学信息学院课程攻略](https://github.com/bljx/BFU-leaf)
-- [浙大城市学院](https://acc15t4bm5.feishu.cn/docs/doccn3vt2AgpwyAWgVlDCULm1sh)
+- [浙大城市学院 飞书云文档](https://acc15t4bm5.feishu.cn/docs/doccn3vt2AgpwyAWgVlDCULm1sh)
 - [北京化工大学课程资料整理开源项目](https://github.com/BUCTBASE/BUCTBASE)
 - [天津理工大学计算机专业 课程资料共享库](https://github.com/DukeWF/TJUT_CS_Helper)
 - [中国人民大学计算机技术与应用专业硕士考研资料](https://github.com/moveondo/Exam-BackUp)
