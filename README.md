@@ -4,14 +4,6 @@
 
 # 使用方法
 
-## 1. 在线网盘（推荐）
-
-在线网盘链接：[点击进入](https://pan.zzy2001.com/s/2AF4)
-
-进入网盘后，可以直接在线查看。在文件夹或文件上右键，可以直接下载。
-
-## 2. 仓库
-
 [GitHub仓库地址](https://github.com/classmatezhu/AHU-Course)
 
 [Gitee镜像仓库地址](https://gitee.com/classmatezhu/AHU-Course)
