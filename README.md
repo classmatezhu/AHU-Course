@@ -41,6 +41,8 @@
 # 相关工作
 
 - [安徽大学飞跃手册](https://www.ahu.wiki)
+- [安徽大学人工智能学院资源仓库](https://github.com/DylanAo/AHU-AI-Repository)
+- [安徽大学(AHU)计算机科学与技术学院学习资料汇总](https://github.com/TenMoons/AHU-CS-Repository)
 - [中国科学技术大学课程资源](https://github.com/USTC-Resource/USTC-Course)
 - [浙江大学课程攻略共享计划](https://github.com/QSCTech/zju-icicles)
 - [上海交通大学课程资料分享](https://github.com/c-hj/SJTU-Courses)
